@@ -1,0 +1,6 @@
+2023/04/11 09:38:46 INFO  : TVBOXNOW 六點半新聞報導 2023-04-11.mp4: Multi-thread Copied (new)
+2023/04/11 09:38:46 INFO  : 
+Transferred:   	  505.207 MiB / 505.207 MiB, 100%, 14.321 MiB/s, ETA 0s
+Transferred:            1 / 1, 100%
+Elapsed time:        36.8s
+
